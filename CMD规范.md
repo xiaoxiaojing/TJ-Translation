@@ -4,7 +4,7 @@
 * 模块是按需执行的
 
 ## 模块的定义
-通过关键字`define`定义一个模块
+通过关键字`define`定义一个模块，`define`是一个全局函数
 ```js
 define(factory)
 ```
