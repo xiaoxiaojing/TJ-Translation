@@ -1,3 +1,5 @@
+[原文链接](https://github.com/cmdjs/specification/blob/master/draft/module.md)
+
 本规范说明了应当如何编写在浏览器环境中执行的模块。也就是说，本规范定义了模块系统能够在浏览器环境执行所需要的最小特征，如下：
 * 模块是单例的
 * 模块中的自由变量不应该被暴露出去
